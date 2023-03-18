@@ -3,7 +3,7 @@
 Inglês Avançado 
 
 
-<img src="https://github.com/luismendes070/ingles/blob/main/Certificates.pdf">
+<a href="https://github.com/luismendes070/ingles/blob/main/Certificates.pdf">C2 Level English Live Santander Scholarship 2023</a>
 
 <img src="https://github.com/luismendes070/curriculo/blob/gh-pages/Teste%20de%20Ingl%C3%AAs%20Out%202018.PNG">
 
