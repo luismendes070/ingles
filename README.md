@@ -3,7 +3,7 @@
 <h1><a href="https://github.com/luismendes070/ingles/blob/main/Certificates.pdf">[VISUALIZAR PDF]Inglês Fluente C2 Level English Live Santander Scholarship 2023 </a>
 
 <h1>Visualizar Imagem Inglês Fluente 2023</h1>
-  <img src="fluente.svg" width=210 height=297>
+  <img src="fluente.svg">
 </h1>
 
 <!-- Imagem Inglês Fluente 2023 -->
